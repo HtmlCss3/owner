@@ -1,0 +1,103 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/repair/repair",
+    "pages/notice/notice",
+    "pages/market/market",
+    "pages/noticeDetail/noticeDetail",
+    "pages/LivingExpenses/LivingExpenses",
+    "pages/my/index",
+    "pages/login/index",
+    "pages/registered/index",
+    "pages/theLogin/index",
+    "pages/trading/index",
+    "pages/information/index",
+    "pages/feedback/index",
+    "pages/myMessage/index",
+    "pages/vote/vote",
+    "pages/activities/activityDtail/activityDtail",
+    "pages/vote/item",
+    "pages/signIn/index",
+    "pages/repair/index",
+    "pages/repair/details",
+    "pages/pay_detail/carparker",
+    "pages/pay_detail/propertyPay",
+    "pages/pay_detail/watersPay",
+    "pages/familyBer/familyBer",
+    "pages/berDetail/berDetail",
+    "pages/addBer/addBer",
+    "pages/demand/demand",
+    "pages/my/boundUSER",
+    "pages/my/BindOwner",
+    "pages/yijang/index",
+    "pages/webview/index",
+    "pages/login/bindtel",
+    "pages/accountManagement/index",
+    "pages/password/index",
+    "pages/About/index",
+    "pages/addBer/editBer",
+    "pages/login/wechat",
+    "pages/faces/index",
+    "pages/wy/index/index",
+    "pages/wy/login/index",
+    "pages/wy/memberAudit/memberAudit/memberAudit",
+    "pages/wy/memberAudit/auditMessage/auditMessage",
+    "pages/wy/my/index",
+    "pages/wy/repair/index",
+    "pages/wy/repair/repairMessage/repairMessage",
+    "pages/wy/complain/index",
+    "pages/wy/complain/complainMsg/complainMsg",
+    "pages/wy/duty/index",
+    "pages/wy/duty/ondutyMessage/ondutyMessage",
+    "pages/wy/duty/addOnduty/addOnduty",
+    "pages/wy/msg/index",
+    "pages/wy/msg/msgInfo",
+    "pages/wy/msg/addMessage",
+    "pages/article/details",
+    "pages/activities/activities"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8",
+    "scrollIndicator": "none",
+    "bounce": "none"
+  },
+  "tabBar": {
+    "fontSize": "12px",
+    "color": "#a6a6a6",
+    "selectedColor": "#28b07c",
+    "borderStyle": "black",
+    "iconWidth": "24px",
+    "spacing": "2px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/index/btn_09_nor.png",
+        "text": "首页",
+        "selectedIconPath": "static/images/index/btn_09_sel.png"
+      },
+      {
+        "pagePath": "pages/market/market",
+        "iconPath": "static/images/index/btn_10.png",
+        "selectedIconPath": "static/images/index/btn_10_sel.png",
+        "text": "市场"
+      },
+      {
+        "pagePath": "pages/activities/activities",
+        "iconPath": "static/images/index/btn_10.png",
+        "selectedIconPath": "static/images/index/btn_10_sel.png",
+        "text": "小区活动"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "static/images/index/btn_11_nor.png",
+        "text": "个人中心",
+        "selectedIconPath": "static/images/index/btn_11_sel.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
